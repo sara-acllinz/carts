@@ -21,7 +21,7 @@ spec:
         - name: DT_TAGS
           value: "product=sockshop"
         - name: DT_CUSTOM_PROP
-          value: "SERVICE_TYPE=BACKEND"
+          value: "SERVICE_TYPE=BACKEND Owner=sara ACE freiendlyName=yCarts"
         resources:
           limits:
             cpu: 500m
